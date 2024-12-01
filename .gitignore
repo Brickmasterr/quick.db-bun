@@ -48,6 +48,10 @@ node_modules/
 jspm_packages/
 pnpm-lock.yaml
 
+# lockfile
+package-lock.json
+bun.lockb
+
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
