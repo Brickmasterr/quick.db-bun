@@ -1,5 +1,5 @@
 {
-  "name": "quick.db-bun",
+  "name": "quick.db",
   "version": "9.1.6",
   "description": "An easy, open-source, Node.js database designed for complete beginners getting into the concept of coding. UPDATED TO SUPPORT BUN SQLITE!",
   "main": "out/index.js",
